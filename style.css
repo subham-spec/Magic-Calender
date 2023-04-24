@@ -121,10 +121,10 @@ body{
 }
 @media (max-width: 550px) {
     .container .calendar{
-        width: 450px;
+        width: 400px;
     }
     .dates div{
-        width: 62px;
+        width: 55px;
         margin: 1px;
     }
 }
